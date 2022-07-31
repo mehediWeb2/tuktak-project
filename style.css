@@ -1,0 +1,26 @@
+body{background-color: rgb(226, 243, 208);}
+.container{ max-width: 1000px; background-color: aqua;margin:0 auto; padding: 20px;}
+*{margin:0; padding:0;}
+
+.profile-image{width: 100px; height: 120px; border:3px solid white ;border-radius: 50%; float:left;}
+.header-bio{float:left; padding:30px}
+h1,h2,h3,h4,h5,h6{color: blue;}
+.header-contact{float:right;padding: 30px;}
+.header-contact a{text-decoration: none;color: blueviolet;font-weight: bold;}
+.header-contact a:hover{text-decoration: underline;color: chartreuse;}
+.div-clear{clear:both;}
+hr{border: solid black;width:100%;margin:20px auto ;border-bottom: none;}
+
+.content{margin:20px ; padding: 30px;}
+.left-div{float: left; width: 30%;}
+.right-div{float: left;width: 70%;}
+.common-hr{border: solid black 1px;
+border-bottom: none; width: 100%;
+margin:0 auto ;}
+.education-template-left{float:left;width:45%;}
+.education-template-right{float:right;width: 45%;}
+.content2{padding: 20px; margin:30px;}
+.hr-hate{border: solid black 1px;border-bottom: none;}
+.bottom-container{background-color: rgb(224, 202, 202); text-align: center;padding:10px;}
+.bottom-container a{ color: blue;text-decoration: none;}
+.bottom-container a:hover{color:red}
